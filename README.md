@@ -3,10 +3,11 @@
 ### Instruções de Execução
 
 - Recomendável executar a automação no **_IntelliJ Idea_**.
+- Os testes usam **_Selenium WebDriver Java_** com **_JUnit_** e padrão **_Page Object_**.
 
 1. Clone o projeto
 <pre>
-https://github.com/crisleyprestes/Triangle_Automation.git
+git clone https://github.com/crisleyprestes/Triangle_Automation.git
 </pre>
 2. Importe o projeto para a IDE e execute a classe **_TriangleTest.java_** que está em **_/src/br.com.linhares.crisley/tests_**.
 
