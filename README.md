@@ -8,7 +8,7 @@
 <pre>
 https://github.com/crisleyprestes/Triangle_Automation.git
 </pre>
-2. Entre no diretório do projeto e execute a classe **_TriangleTest.java_** que está em **_/src/br.com.linhares.crisley/tests_**.
+2. Importe o projeto para a IDE e execute a classe **_TriangleTest.java_** que está em **_/src/br.com.linhares.crisley/tests_**.
 
 #### Notas:
 - A automação é executada no **_Chrome_**, mas pode ser executada no **_Firefox_** também, para isso, é necessário alterar a variável **_BROWSER_** dentro da classe
