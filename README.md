@@ -16,3 +16,4 @@ https://github.com/crisleyprestes/Triangle_Automation.git
 <pre>BROWSER = Browsers.CHROME</pre>
 - A execução da automação gera screenshots de cada caso de teste, esses arquivos ficam salvos em **_/target/screenshot_**. Este diretório porém não é commitado no
 repositório.
+- Não foi possível reproduzir a mensagem de erro esperada do sistema quando a condição de existência de um triângulo não é obedecida. Segundo a regra **_Lembre-se que os lados só formam um triângulo se o comprimento de um lado for sempre menor do que a soma dos outros dois_**, independente dos valores inseridos, a regra de existência sempre será válida.
